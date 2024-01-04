@@ -1,0 +1,19 @@
+GET http://localhost:1234/brawlers
+
+###################
+
+GET http://localhost:1234/brawlers/16000000
+
+###################
+
+GET http://localhost:1234/players/%2320CYRGC98
+
+###################
+
+GET http://localhost:1234/players/%2320CYRGC98/battleLog
+
+###################
+
+GET http://localhost:1234/club/%23G2P2090
+
+
